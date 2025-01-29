@@ -1,5 +1,7 @@
 # Coffee Sales Analysis ☕📊
 
+![Coffee Sales](https://github.com/omkathale1998/Coffee_sales-dashboard/blob/6ab660f5055c31d7ff113ca2d98f3f7c1e5ab62f/istockphoto-1467739359-612x612.jpg)
+
 ## Project Overview 🏢
 This project analyzes coffee sales data to identify trends, optimize pricing, and improve sales strategies. The dataset includes transaction details, revenue, profit, and product popularity to help boost business performance.
 
@@ -13,7 +15,7 @@ The dataset consists of multiple sheets with key data:
 
 ## Key Findings 🔍
 - *Peak Sales Hours ⏰*: High transactions occur in the morning (7 AM), indicating a pre-work rush.
-- *Best-Selling Days 🗓: Sales peak on **Monday and Tuesday*, suggesting strong early-week demand.
+- *Best-Selling Days 🗓*: Sales peak on **Monday and Tuesday**, suggesting strong early-week demand.
 - *Top-Selling Products 🏆*:
   - Gourmet Brewed Coffee ☕ has the highest quantity sold.
   - Barista Espresso ☕ generates the most revenue and net profit.
@@ -23,7 +25,7 @@ The dataset consists of multiple sheets with key data:
 ## Business Recommendations 📢
 - *Introduce Off-Peak Discounts 🎯*: Offer promotions during non-peak hours to encourage more sales.
 - *Bundle Offers 🎁*: Create combo deals (e.g., Coffee + Pastry) to increase basket size.
-- *Promote Low-Selling Products 📉: Use discounts and marketing campaigns to push slow-moving items like *Hot Chocolate 🍫.
+- *Promote Low-Selling Products 📉*: Use discounts and marketing campaigns to push slow-moving items like *Hot Chocolate 🍫.
 - *Loyalty Programs 🎟*: Reward repeat customers with a points system or free coffee after a set number of purchases.
 - *Optimize Store Performance 📊*: Identify underperforming stores and launch location-specific promotions.
 - *Seasonal Promotions ❄🎃*: Offer limited-time beverages (e.g., Pumpkin Spice Latte) to drive seasonal sales.
